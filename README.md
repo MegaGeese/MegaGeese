@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MegaGeese
+- 👋 Hi, I’m @MegaGeese (she/her/hers)
 - 👀 I’m interested in Judo, Counter-Strike, and Cryptology
 - 🌱 I’m currently learning leaving api keys in a public repo is bad
 - 💞️ I’m looking to collaborate on anything related to my interests
